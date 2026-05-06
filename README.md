@@ -47,7 +47,7 @@ class FullStackDeveloper:
     
     def current_focus(self):
         return {
-            "building": "AI-powered career platforms 🤖",
+            "building": "EmpowaAI 🤖",
             "learning": ["Rust 🦀", "Cloud Architecture ☁️", "System Design 🏗️"],
             "fun_fact": "I turn GitHub graphs into Pac-Man mazes 🕹️"
         }
@@ -99,12 +99,12 @@ if __name__ == "__main__":
 ```bash
 $> cat experience.log
 
-[2024 ── Present]  ████████████████████  FULL-STACK DEVELOPER @ EmpowaAI
+[2025 ── Present]  ████████████████████  FULL-STACK DEVELOPER @ EmpowaAI
                     ├── AI-powered career platform
                     ├── Intelligent CV analysis & job matching
                     └── Users secure jobs within weeks 🚀
 
-[2023 ── 2024]     ████████████████████  FULL-STACK DEVELOPER @ TechPlug
+[2024 ── 2025]     ████████████████████  FULL-STACK DEVELOPER @ TechPlug
                     ├── React + .NET Core
                     ├── Scalable data handling
                     └── High-performance REST APIs
@@ -125,7 +125,7 @@ $> cat experience.log
 |:---|:---|:---|
 | 🎓 **AiCE & Virtual Assistance** | ALX | 2023-2024 |
 | 💻 **Software Development** | TechBridle Foundation | 2024-2025 |
-| 📚 **Computer Science Foundation** | North West University | 2023 |
+| 📚 **Computer Science Foundation** | North West University | 2023-2022 |
 | 🏆 **National Senior Certificate** | Phumula Gardens Secondary | 2017-2021 |
 
 </div>
